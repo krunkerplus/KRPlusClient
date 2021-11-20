@@ -3,7 +3,7 @@
 
 
 <!-- PROJECT SHIELDS -->
-<!-- [![Forks][forks-shield]][forks-url]  -->
+<!-- [![Forks][forks-shield]][forks-url] -->
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![License][license-shield]][license-url]
@@ -104,7 +104,7 @@ See [License](https://github.com/krunkerplus/KRPlusClient/blob/5cd2e75f3e1ec7a48
 <!-- CONTACT -->
 ## Contact
 
-Discord - [https://discord.gg/4npEkvPcdB](https://discord.gg/4npEkvPcdB)
+Discord - [https://discord.gg/tE9742JeAS](https://discord.gg/tE9742JeAS)
 
 Project Link - [https://github.com/krunkerplus/KRPlusClient](https://github.com/krunkerplus/KRPlusClient)
 
