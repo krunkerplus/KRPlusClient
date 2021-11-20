@@ -21,7 +21,7 @@
 <h3 align="center">ZYME Client</h3>
 
   <p align="center">
-    A Krunker Custom Client for ZYME Clan
+    Just a krunker client ig
     <br />
     <br />
     <br />
@@ -115,7 +115,7 @@ Project Link - [https://github.com/krunkerplus/KRPlusClient](https://github.com/
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
+* [Krunker](https://krunker.io/)
 * []()
 * []()
 
